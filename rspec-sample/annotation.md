@@ -70,3 +70,9 @@ be_instance_of => Igualdade de instancia
 be_kind_of => Igualdade de intancia em herança
 
 be_a, be_an => be_kind_of => Melhor conotação
+
+---
+
+Method Alias
+
+https://gist.github.com/JunichiIto/f603d3fbfcf99b914f86
