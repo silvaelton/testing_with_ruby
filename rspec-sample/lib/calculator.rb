@@ -4,4 +4,7 @@ class Calculator
     a + b
   end
 
+  def div(a, b)
+    a / b
+  end
 end
